@@ -4,5 +4,7 @@ public class Main {
         System.out.println("김승원");
         World.run();
         Hello.run();
+        World.run2();
+
     }
 }
